@@ -1,0 +1,29 @@
+{
+    "total_rows": 50,
+    "columns": [
+        "EMPLOYEE_ID",
+        "FIRST_NAME",
+        "LAST_NAME",
+        "EMAIL",
+        "PHONE_NUMBER",
+        "HIRE_DATE",
+        "JOB_ID",
+        "SALARY",
+        "COMMISSION_PCT",
+        "MANAGER_ID",
+        "DEPARTMENT_ID"
+    ],
+    "average_salary": 6182.32,
+    "department_distribution": {
+        "50": 23,
+        "100": 6,
+        "30": 6,
+        "60": 5,
+        "90": 3,
+        "110": 2,
+        "20": 2,
+        "40": 1,
+        "10": 1,
+        "70": 1
+    }
+}
